@@ -1,0 +1,1 @@
+# jsx-auto-gatsby4
